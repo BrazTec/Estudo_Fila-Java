@@ -1,1 +1,3 @@
 # Verificar
+
+Fila em Array
